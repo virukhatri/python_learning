@@ -1,2 +1,2 @@
 # python_learning
-pyton leraning basci
+pyton leraning basic
